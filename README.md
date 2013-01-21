@@ -1,4 +1,4 @@
 SudokuSolver
 ============
 
-Sudoku Solver from the HackerRank Hacker Olympics
+3x3 grid Sudoku puzzle solver
